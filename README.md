@@ -1,5 +1,7 @@
 # Nghiên cứu chương trình phân tích cây cú pháp câu tiếng Anh bằng Prolog
+
 ## 1. Giới thiệu đề tài
+
 Đề tài này tập trung nghiên cứu và xây dựng chương trình phân tích cây cú pháp cho câu văn tiếng Anh bằng ngôn ngữ lập trình Prolog. Mục tiêu của chương trình là tìm hiểu cách biểu diễn các quy tắc ngữ pháp tiếng Anh bằng các luật logic, từ đó phân tích cấu trúc của câu và xây dựng cây cú pháp tương ứng.
 
 Trong chương trình, em sử dụng Definite Clause Grammar (DCG) để mô tả các thành phần ngữ pháp như câu, cụm danh từ, cụm động từ và các thành phần liên quan. Dựa trên những quy tắc này, chương trình có thể phân tích các câu tiếng Anh thuộc phạm vi ngữ pháp đã được xây dựng.
